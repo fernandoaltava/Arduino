@@ -1,0 +1,10 @@
+#Keyword para a classe
+Pino1	KEYWORD1	Pino1
+
+#keyword para métodos
+ligar	KEYWORD2
+desligar	KEYWORD2
+inverter	KEYWORD2
+piscar	KEYWORD2
+pulsoA	KEYWORD2
+pulsoB	KEYWORD2
